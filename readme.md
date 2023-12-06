@@ -2,6 +2,6 @@
 My projects are listed below. You can find me on other platforms through my [linktree clone](https://s1csty9.github.io/links.html) that is much better than what it's based on.
 
 My big project thingys (smaller ones are in my repos):\
-NemesisOS- cool hacker distro bloated with s1csty9ware (removal optional)
+NemesisOS- cool hacker distro bloated with s1csty9ware (removal optional) (tempoarily abadoned (tempoarily) )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1csty9&layout=compact&theme=dark)
